@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miaseguradora.com.ar/sitemap.xml
