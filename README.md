@@ -11,7 +11,7 @@ Solo se guardan título, enlace, fuente y fecha (nunca el texto de las notas).
    (Arrastrar archivos desde el navegador admite máximo 100 por vez y no siempre toma carpetas ocultas.)
 3. En Cloudflare: *Workers & Pages → Create → Pages → Connect to Git* → elegí el repositorio.
    - Build command: (vacío)
-   - Build output directory: `site`
+   - Deploy command: `npx wrangler deploy` (el archivo `wrangler.jsonc` de la raíz indica que se publica la carpeta `site`)
 4. Conectá el dominio en *Custom domains*, como ya hiciste.
 5. Probá las noticias: en GitHub, pestaña *Actions → Actualizar noticias → Run workflow*.
    Abrí la ejecución y mirá el log: cada medio dice OK o FAIL.
