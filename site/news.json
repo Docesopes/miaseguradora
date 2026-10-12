@@ -1,5 +1,5 @@
 {
- "updated": "10/10/2026",
+ "updated": "12/10/2026",
  "items": [
   {
    "title": "La SSN levantó la prohibición y Libra Seguros vuelve a emitir pólizas, pero sigue con sus bienes inhibidos",
@@ -7,13 +7,6 @@
    "source": "El Seguro en Acción",
    "date": "2026-10-09",
    "date_label": "9 oct 2026"
-  },
-  {
-   "title": "La Perseverancia Seguros celebra 121 años de trayectoria en el mercado asegurador",
-   "url": "https://100seguro.com.ar/la-perseverancia-seguros-celebra-121-anos-de-trayectoria-en-el-mercado-asegurador/",
-   "source": "100% Seguro",
-   "date": "2026-10-08",
-   "date_label": "8 oct 2026"
   },
   {
    "title": "LPS. Celebración de los 121 años de trayectoria en el mercado asegurador",
@@ -56,6 +49,13 @@
    "source": "APASER",
    "date": "2026-09-04",
    "date_label": "4 sep 2026"
+  },
+  {
+   "title": "SSN sancionó a cuatro aseguradoras: revocaron la matrícula de una entidad y prohibieron emitir pólizas a otras dos",
+   "url": "https://www.apaser.com.ar/ssn-sanciono-a-cuatro-aseguradoras-revocaron-la-matricula-de-una-entidad-y-prohibieron-emitir-polizas-a-otras-dos/",
+   "source": "APASER",
+   "date": "2026-08-28",
+   "date_label": "28 ago 2026"
   }
  ]
 }
