@@ -1,6 +1,20 @@
 {
- "updated": "21/10/2026",
+ "updated": "22/10/2026",
  "items": [
+  {
+   "title": "La SSN realizó la tradicional Santa Misa por el Día del Seguro en homenaje a Manuel Belgrano",
+   "url": "https://100seguro.com.ar/la-ssn-realizo-la-tradicional-santa-misa-por-el-dia-del-seguro-en-homenaje-a-manuel-belgrano/",
+   "source": "100% Seguro",
+   "date": "2026-10-22",
+   "date_label": "22 oct 2026"
+  },
+  {
+   "title": "Ciberseguros, Vida y pymes desprotegidas: el diagnóstico de 5 referentes del mercado asegurador",
+   "url": "https://elseguroenaccion.com.ar/ciberseguros-vida-y-pymes-desprotegidas-el-diagnostico-de-5-referentes-del-mercado-asegurador/",
+   "source": "El Seguro en Acción",
+   "date": "2026-10-22",
+   "date_label": "22 oct 2026"
+  },
   {
    "title": "En el Día del Seguro, Galicia Seguros reafirma el valor de la conciencia aseguradora y el rol del productor como asesor",
    "url": "https://100seguro.com.ar/en-el-dia-del-seguro-galicia-seguros-reafirma-el-valor-de-la-conciencia-aseguradora-y-el-rol-del-productor-como-asesor/",
@@ -9,11 +23,11 @@
    "date_label": "21 oct 2026"
   },
   {
-   "title": "La SSN detectó un déficit de capital de $620 millones en una aseguradora y le exigió un plan de saneamiento",
-   "url": "https://100seguro.com.ar/la-ssn-detecto-un-deficit-de-capital-de-620-millones-en-una-aseguradora-y-le-exigio-un-plan-de-saneamiento/",
-   "source": "100% Seguro",
-   "date": "2026-10-20",
-   "date_label": "20 oct 2026"
+   "title": "GALICIA. Reafirma el valor de la Conciencia Aseguradora y el rol de los PAS",
+   "url": "https://www.prensaaseguradora.com/post/galicia-reafirma-el-valor-de-la-conciencia-aseguradora-y-el-rol-de-los-pas",
+   "source": "Prensa Aseguradora",
+   "date": "2026-10-21",
+   "date_label": "21 oct 2026"
   },
   {
    "title": "SSN.Comité de Finanzas y Seguros de AmCham",
@@ -30,32 +44,18 @@
    "date_label": "19 oct 2026"
   },
   {
-   "title": "SSN. Modificación en el Reglamento de Capacitación de PAS",
-   "url": "https://www.prensaaseguradora.com/post/ssn-modificaci%C3%B3n-en-el-reglamento-de-capacitaci%C3%B3n-de-pas",
-   "source": "Prensa Aseguradora",
-   "date": "2026-10-19",
-   "date_label": "19 oct 2026"
+   "title": "Se encuentran abiertas las inscripciones para el examen de competencias ante la SSN",
+   "url": "https://www.apaser.com.ar/se-encuentran-abiertas-las-inscripciones-para-el-examen-de-competencias-ante-la-ssn/",
+   "source": "APASER",
+   "date": "2026-10-13",
+   "date_label": "13 oct 2026"
   },
   {
-   "title": "Continúa subiendo la satisfacción de los clientes con sus Aseguradoras",
-   "url": "https://elseguroenaccion.com.ar/continua-subiendo-la-satisfaccion-de-los-clientes-con-sus-aseguradoras/",
-   "source": "El Seguro en Acción",
-   "date": "2026-10-19",
-   "date_label": "19 oct 2026"
-  },
-  {
-   "title": "IF-2026-98097416-APN-GEYE#SSN – SITUACIÓN DE MERCADO REASEGURADOR – JUNIO DE 2026",
-   "url": "https://elseguroenaccion.com.ar/if-2026-98097416-apn-geyessn-situacion-de-mercado-reasegurador-junio-de-2026/",
-   "source": "El Seguro en Acción",
-   "date": "2026-10-15",
-   "date_label": "15 oct 2026"
-  },
-  {
-   "title": "RESOL-2026-443-APN-SSN#MEC – PRODUCTORES DE FRUTAS ARGENTINAS COOPERATIVA DE SEGUROS LIMITADA – REVOCACIÓN DE LA AUTORIZACIÓN PARA OPERAR",
-   "url": "https://elseguroenaccion.com.ar/resol-2026-443-apn-ssnmec-productores-de-frutas-argentinas-cooperativa-de-seguros-limitada-revocacion-de-la-autorizacion-para-operar/",
-   "source": "El Seguro en Acción",
-   "date": "2026-10-15",
-   "date_label": "15 oct 2026"
+   "title": "SSN: Dos aseguradoras fueron impedidas de emitir pólizas y a otra se le concedió un recurso de apelación",
+   "url": "https://www.apaser.com.ar/ssn-dos-aseguradoras-fueron-impedidas-de-emitir-polizas-y-a-otra-se-le-concedio-un-recurso-de-apelacion/",
+   "source": "APASER",
+   "date": "2026-09-04",
+   "date_label": "4 sep 2026"
   }
  ]
 }
