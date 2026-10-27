@@ -1,23 +1,9 @@
 {
- "updated": "24/10/2026",
+ "updated": "27/10/2026",
  "items": [
   {
    "title": "AALPS participó de la tercera Cumbre Aseguradora Argentina",
    "url": "https://100seguro.com.ar/aalps-participo-de-la-tercera-cumbre-aseguradora-argentina/",
-   "source": "100% Seguro",
-   "date": "2026-10-23",
-   "date_label": "23 oct 2026"
-  },
-  {
-   "title": "Bajo el lema “Más seguros, más futuro”, se realizó la tercera Cumbre Aseguradora Argentina",
-   "url": "https://100seguro.com.ar/bajo-el-lema-mas-seguros-mas-futuro-se-realizo-la-tercera-cumbre-aseguradora-argentina/",
-   "source": "100% Seguro",
-   "date": "2026-10-23",
-   "date_label": "23 oct 2026"
-  },
-  {
-   "title": "La SSN levantó la inhibición general de bienes que pesaba sobre una aseguradora",
-   "url": "https://100seguro.com.ar/la-ssn-levanto-la-inhibicion-general-de-bienes-que-pesaba-sobre-una-aseguradora/",
    "source": "100% Seguro",
    "date": "2026-10-23",
    "date_label": "23 oct 2026"
@@ -56,6 +42,20 @@
    "source": "El Seguro en Acción",
    "date": "2026-10-22",
    "date_label": "22 oct 2026"
+  },
+  {
+   "title": "IF-2026-102047955-APN-GEYE#SSN – TASA TESTIGO RENTAS VITALICIAS PREVISIONALES – OCTUBRE DE 2026",
+   "url": "https://elseguroenaccion.com.ar/if-2026-102047955-apn-geyessn-tasa-testigo-rentas-vitalicias-previsionales-octubre-de-2026/",
+   "source": "El Seguro en Acción",
+   "date": "2026-10-22",
+   "date_label": "22 oct 2026"
+  },
+  {
+   "title": "Se encuentran abiertas las inscripciones para el examen de competencias ante la SSN",
+   "url": "https://www.apaser.com.ar/se-encuentran-abiertas-las-inscripciones-para-el-examen-de-competencias-ante-la-ssn/",
+   "source": "APASER",
+   "date": "2026-10-13",
+   "date_label": "13 oct 2026"
   }
  ]
 }
