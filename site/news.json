@@ -1,10 +1,17 @@
 {
- "updated": "06/11/2026",
+ "updated": "07/11/2026",
  "items": [
   {
    "title": "La SSN aumenta los límites de RC del seguro automotor: estos son los nuevos montos que regirán desde 2027",
    "url": "https://100seguro.com.ar/la-ssn-aumenta-los-limites-de-rc-del-seguro-automotor-estos-son-los-nuevos-montos-que-regiran-desde-2027/",
    "source": "100% Seguro",
+   "date": "2026-11-06",
+   "date_label": "6 nov 2026"
+  },
+  {
+   "title": "SSN. Aumentan los límites de la RC autos que regirán desde 2027",
+   "url": "https://www.prensaaseguradora.com/post/ssn-aumentan-los-l%C3%ADmites-de-la-rc-autos-que-regir%C3%A1n-desde-2027",
+   "source": "Prensa Aseguradora",
    "date": "2026-11-06",
    "date_label": "6 nov 2026"
   },
@@ -49,13 +56,6 @@
    "source": "APASER",
    "date": "2026-10-28",
    "date_label": "28 oct 2026"
-  },
-  {
-   "title": "Se encuentran abiertas las inscripciones para el examen de competencias ante la SSN",
-   "url": "https://www.apaser.com.ar/se-encuentran-abiertas-las-inscripciones-para-el-examen-de-competencias-ante-la-ssn/",
-   "source": "APASER",
-   "date": "2026-10-13",
-   "date_label": "13 oct 2026"
   }
  ]
 }
